@@ -69,8 +69,20 @@ The correction is added to one motor command and subtracted from the other. Ther
 - `Results/`: test and competition record
 - `Images/`: add actual robot photographs and videos
 
+
 ## Results and Achievement
 Team DELTAONE secured 3rd Prize at IGNITRRON'26 Line Follower Hackathon. Add actual competition photographs, certificate and measured test results to this repository.
+
+## Project Gallery
+
+### 1. Robot Hardware
+![Line Following Robot](Images/LFR.jpeg)
+
+### 2. Robot in Action
+![Robot Track Performance](Images/ON%20TRACK.jpeg)
+
+### 3. Competition Achievement
+![KPR IET Winners](Images/KPRIET%20WINNERS.jpeg)
 
 ## Author
 Yeshwanth V
