@@ -1,0 +1,2 @@
+Required library: QTRSensors by Pololu
+Board: Arduino Nano (select the correct processor/bootloader option)
